@@ -24,3 +24,5 @@ class Main
         System.out.println(T.solution(str));
     }
 }
+
+// tip: each public class is put in its own file
